@@ -26,3 +26,8 @@ gdk.jar - Glass Developer Kit (https://developers.google.com/glass/develop/gdk/)
 
 wearable-preview-support.jar - Wearables (http://developer.android.com/wear/index.html)
     Wearables allows Android apps to connect with Android Wear
+
+git clone https://github.com/manniru/android_packages_apps_Calculator.git   
+sudo chmod +x gradlew
+./gradlew assembleDebug
+/Users/mannir/git/android_packages_apps_Calculator/Calculator/build/outputs/apk/Calculator-debug.apk
